@@ -1,4 +1,4 @@
-# Generation log (2026-06-18 01:03:40 JST)
+# Generation log (2026-06-18 02:18:54 JST)
 title: LPが売れない理由
 series: mukimuki-kuma
 image_model: gpt-image-2
