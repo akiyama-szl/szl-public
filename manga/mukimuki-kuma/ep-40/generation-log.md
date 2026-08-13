@@ -1,11 +1,11 @@
-# Generation log (2026-08-13 10:53:07 JST)
+# Generation log (2026-08-13 10:54:17 JST)
 title: 一文で伝える訓練（クール4完走）
 series: mukimuki-kuma
 image_model: gpt-image-2
 generation_size: 1024x1280
 post_processing: resize to 1080x1350 (4:5, native gpt-image-2)
 
-## panel 07
+## panel 08
 ```
 [style] ART DIRECTION (locked, do not deviate): flat 2D modern anime/manga illustration. Soft pastel color palette dominated by warm pinks, creams, light beige, and pale blue sky. Clean confident line art with consistent stroke weight, slight cel-shading only (no harsh shadows). Characters have rounded soft shapes with simple expressive features. Speech bubbles: pure white fill, thin black outline, soft rounded shape, small triangular tail pointing to the speaker. Inside speech bubbles, the keyword 「ターゲット」 etc. is highlighted in warm pink/red bold when emphasized. Backgrounds are simple and pastel — office window with bright sky in consultation scenes, soft cream/pink gradient in dialogue scenes, pink-red action burst with crack effects only in strike scene. Overall mood: friendly slice-of-life with occasional gag-manga intensity. In strike scenes, use dynamic radial impact lines, dust/debris, sparks, and bold Japanese SFX text. Bottom-band caption phrases (when specified) are NOT drawn by you — they are composited as a solid horizontal banner across the very bottom of the final 1080×1350 image during post-processing. When a bottom band is specified, the BOTTOM 16% of the canvas is RESERVED for that composited band: ABSOLUTELY NO speech bubbles, NO dialogue text, NO SFX, NO labels, NO important character details (heads, faces, hands) may be placed in that bottom 16% — anything you draw there will be hidden by the band. Only simple flat background may extend into the reserved area. Top-left corner: a small rounded badge (white background, black text) displaying the panel number ONLY (e.g. '1', '2'). 
 
@@ -19,16 +19,13 @@ Aspect ratio: portrait 4:5 (1024×1280 native). Post-processed only by LANCZOS s
   • SFX TEXT (ドン, ドカン, バーン …) sits CENTRALLY inside the central 60% of the canvas — well away from every edge.
   • NUMBER BADGES, labels, any other text: fully inside the canvas, not touching edges.
   • SMALL ANNOTATION / SMASHED-BUBBLE TEXT (debris labels, sub-bubbles, side captions): keep within the central 80% horizontally and vertically. The outer 10% on all sides is reserved as legibility margin — no text fragments there.
-[number badge] Top-left corner: a small rounded white badge with black text "7" only. No other text or title on the panel.
-[characters] [character — mini linkuma, summary panel only] ミニリンクマ (Mini Linkuma) — a much smaller, more chibi-deformed version of the same pink bear, with even rounder oversized head relative to body, simplified stubby body, same face features (white muzzle, large round eyes with highlights, tiny nose, gentle smile, pink cheeks, small ears), and white hi-waist shorts with the same thin black belt. Standing upright on hind legs, holding a long thin black/silver pointer with one gloved hand extended toward a whiteboard. Cute teacher-like pose.
-[scene] mini version of pink coral bear standing in front of whiteboard holding marker, cute chibi style, whiteboard showing summary list with 4 bullet points, clean white background, educational illustration style. ミニリンクマがホワイトボードの前に立ち、マーカーを持ってクール4の総まとめを指し示している。ホワイトボードには「まとめ：一文で伝える訓練」と書かれ、4項目が整理されている。背景はシンプルな白。
-[whiteboard title] At the top of the whiteboard: bold Japanese title in pink/red accent: "まとめ：一文で伝える訓練".
-[whiteboard bullets — 4 items] On the whiteboard, hand-written-style Japanese bullet points: "✅ 30字で言えない訴求は、相手に届く前に脱落する" / "✅ 長い説明は「30字の扉」が開いた後にしか機能しない" / "✅ 訴求の主語は「自分の商品」ではなく「お客様の変わりたい未来」" / "✅ 今日からやること：サービスを30字で書いて、声に出して確かめる". Mini-bear is pointing at one of the bullets.
+[number badge] Top-left corner: a small rounded white badge with black text "8" only. No other text or title on the panel.
+[characters] see manga-seisaku/references/characters.md — リンクマ通常/制裁/ミニ ＋ 社長
+[scene] mini pink coral bear standing between two whiteboards, left board shows 'Cool 4 recap' with episode list, right board shows 'Cool 5 preview' with teaser topics, bright cheerful background, celebratory confetti elements. ミニリンクマがクール4の全話テーマを書いたホワイトボードの横に立ち、次のクール5の予告ボードも隣に並べている。2枚のボードで「これまで」と「これから」を対比させた構図。明るく前向きな雰囲気。
+[speech bubble] リンクマ: Japanese text in speech bubble: "クール4、全部走り切ったな！　クール5は「一度売った先」をどう仕組みにするか——もっと面白くなるぜ、ついてこいよ！"
 [constraints] Do not include any English text in the image (except the panel number badge and "10t" hammer label). Japanese text must be rendered accurately without garbled characters. Keep character appearance consistent across panels (except when strike-mode or mini-bear is explicitly used in this panel). Do not depict any real-world person, brand, logo, or company name.
 [wardrobe — FIXED across all panels and modes] リンクマ ALWAYS wears WHITE shorts with a thin BLACK BELT (a simple black waistband with a small buckle) at the top of the shorts, in EVERY panel and EVERY mode (normal / strike / mini). The black belt is a permanent, defining feature — always render the black belt on the white shorts; never omit it.
 [reference usage] If reference images are attached (character sheets / scene refs), treat them as the CANONICAL visual definition. Match リンクマ's face shape, color, eye style, body proportions, and (in strike mode) the predator-eyes design EXACTLY to the linkuma reference sheet. Match 社長's hair, face, suit, and expression style EXACTLY to the shacho reference sheet. Use the scene reference as the basis for background and atmosphere. The text instructions above describe the composition / pose / dialogue / SFX for THIS panel — they override the references only on those specific aspects.
 [wardrobe — FIXED across all panels and modes] リンクマ ALWAYS wears WHITE shorts with a thin BLACK BELT (a simple black waistband with a small buckle) at the top of the shorts, in EVERY panel and EVERY mode (normal / strike / mini). The black belt is a permanent, defining feature — always render the black belt on the white shorts; never omit it.
 [reference usage] If reference images are attached (character sheets / scene refs), treat them as the CANONICAL visual definition. Match リンクマ's face shape, color, eye style, body proportions, and (in strike mode) the predator-eyes design EXACTLY to the linkuma reference sheet. Match 社長's hair, face, suit, and expression style EXACTLY to the shacho reference sheet. Use the scene reference as the basis for background and atmosphere. The text instructions above describe the composition / pose / dialogue / SFX for THIS panel — they override the references only on those specific aspects.
 ```
-
-references: ['style-sheet.png', 'linkuma-sheet.png', 'scene-whiteboard-summary.png']
